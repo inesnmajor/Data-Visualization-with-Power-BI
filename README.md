@@ -73,7 +73,7 @@ _Powered by: Spotify Audio Features API_
 
 ## How to Use
 
-In this case the project is presented only on the pdf
+In this case the project is presented only on the pdf with a report to support our decisions
 
 ---
 
